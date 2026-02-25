@@ -1,0 +1,12 @@
+'''openai-whisper
+pygame
+numpy<2.0
+torch
+googletrans==4.0.0-rc1
+pydub
+soundfile'''
+openai-whisper
+torch
+speechrecognition
+pyaudio
+wave
